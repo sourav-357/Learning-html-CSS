@@ -1,0 +1,9 @@
+#btn:hover {
+    color: aqua;
+    background-color: black;
+}
+
+.abc:hover {
+    color: yellow;
+    background-color: cadetblue;
+}
