@@ -39,6 +39,7 @@ body {
   background-image: url("../images/css.png"), url("../images/hero.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  background-size: cover;
   /* background-position: left bottom; */
   /* background-blend-mode: difference; */
 }
